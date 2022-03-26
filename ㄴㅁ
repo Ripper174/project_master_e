@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>title</title>
+    <style>
+        li { color: black; }
+        h1 { color: brown ! important}
+        li { color: blue; }
+
+
+
+
+    </style>
+</head>
+<body>
+<h1 style="color: green;"> 8호선 역들 </h1>
+<ul>
+    <li style="amsa" 암사</li>
+    <li style="cheonho" 천호</li>
+    <li style="gandgonggu-office" 강동구청</li>
+    <li style="monchontoseong" 몽촌토성</li>
+    <li style="jamsil" 잠실</li>
+    <li style="seokchon" 석촌</li>
+    <li style="songpa" 송파</li>
+    <li style="garak market" 가락시장</li>
+    <li style="munjeong" 문정</li>
+    <li style="jagji" 장지</li>
+    <li style="bokjeong" 복정</li>
+    <li style="sanseong" 산성</li>
+    <li style="namhansanseong" 남한산성입구</li>
+    <li style="dandaeogeori" 단대오거리</li>
+    <li style="sinheung" 신흥</li>
+    <li style="sujin" 수진</li>
+    <li style="moran" 모란</li>
+</ul>
+
