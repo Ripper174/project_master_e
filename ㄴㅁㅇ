@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+        PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <title>Title</title>
+</head>
+<body><!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<title>tittle</title>
+<link rel="stylesheet" href="style.css">
+<style>
+    h1 {
+    background-color:red;
+    color: blue;
+    padding: 10px;
+    }*{
+
+    margin: 0px;
+
+    }
+    p {
+    font-style: italic
+    }
+    .accent {
+    color: red:
+
+    }
+    #bone {
+    color:green;
+    }
+    #container{
+    width:400px
+    margin: 10px auto
+    padding: 10px;
+    border:1px solid black:
+
+    }
+    h1, p {
+        text-align: center;
+        }
+
+
+</style>
+
+</body>
+</html>
